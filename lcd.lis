@@ -1,0 +1,8 @@
+
+	            G L O B A L   R E F E R E N C E S
+
+	             Name               Value        Type
+	==============================|=======|===============
+	LCD_IN                           FFF5         CONSTANT
+	LCD_CTR                          FFF4         CONSTANT
+	Fim                              0016            LABEL
